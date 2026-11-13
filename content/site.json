@@ -14,17 +14,17 @@
   },
   "authors": [
     {
-      "id": "alex",
-      "name": "Alex",
+      "id": "anjana",
+      "name": "Anjana",
       "initials": "A",
       "color": "#c2552d",
       "section": "travel",
-      "bio": "Travels slowly, walks everywhere, and always finds the bakery before the museum."
+      "bio": "Travels slowly, walks everywhere, a nature lover, and a passionate photographer."
     },
     {
-      "id": "sam",
-      "name": "Sam",
-      "initials": "S",
+      "id": "akshay",
+      "name": "Akshay",
+      "initials": "A",
       "color": "#1f6f78",
       "section": "science",
       "bio": "Reads papers for fun and keeps asking 'but why?' one level further than is polite."
