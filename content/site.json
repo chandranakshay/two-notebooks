@@ -1,0 +1,33 @@
+{
+  "title": "Two Notebooks",
+  "tagline": "One of us writes about the places we wander through. The other goes down rabbit holes in science and writes back up. Same kitchen table, two very different notebooks.",
+  "about": "This is a shared blog with two sections. Travel is for trip stories, photos and practical tips. Science is for long, careful deep dives into how things actually work.",
+  "sections": {
+    "travel": {
+      "title": "Travel",
+      "blurb": "Trip stories, slow walks, photos and the small practical things we wish we'd known."
+    },
+    "science": {
+      "title": "Science",
+      "blurb": "Deep dives into how things work, with the reasoning, the numbers and the sources."
+    }
+  },
+  "authors": [
+    {
+      "id": "alex",
+      "name": "Alex",
+      "initials": "A",
+      "color": "#c2552d",
+      "section": "travel",
+      "bio": "Travels slowly, walks everywhere, and always finds the bakery before the museum."
+    },
+    {
+      "id": "sam",
+      "name": "Sam",
+      "initials": "S",
+      "color": "#1f6f78",
+      "section": "science",
+      "bio": "Reads papers for fun and keeps asking 'but why?' one level further than is polite."
+    }
+  ]
+}

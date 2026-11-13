@@ -1,0 +1,40 @@
+[
+  {
+    "slug": "why-the-sky-is-blue",
+    "title": "Why is the sky blue, and not violet?",
+    "section": "science",
+    "author": "sam",
+    "date": "2026-11-08",
+    "summary": "Rayleigh scattering explains the blue. The more interesting question is why the sky isn't purple.",
+    "tags": ["Physics", "Light"]
+  },
+  {
+    "slug": "lisbon-on-foot",
+    "title": "Three days in Lisbon, almost entirely on foot",
+    "section": "travel",
+    "author": "alex",
+    "date": "2026-10-30",
+    "location": "Lisbon, Portugal",
+    "summary": "Seven hills, too many custard tarts and the best way to see the city without a single tram ticket.",
+    "tags": ["Europe", "City walks"]
+  },
+  {
+    "slug": "how-crispr-finds-its-target",
+    "title": "How does CRISPR find one spot in three billion letters?",
+    "section": "science",
+    "author": "sam",
+    "date": "2026-10-18",
+    "summary": "A guide RNA, a short 'password' next to the target, and a lot of very fast trial and error.",
+    "tags": ["Biology", "Genetics"]
+  },
+  {
+    "slug": "kyoto-in-the-rain",
+    "title": "Kyoto in the rain is the best Kyoto",
+    "section": "travel",
+    "author": "alex",
+    "date": "2026-09-27",
+    "location": "Kyoto, Japan",
+    "summary": "The crowds disappear, the moss turns electric green, and you get the temples almost to yourself.",
+    "tags": ["Asia", "Seasons"]
+  }
+]
